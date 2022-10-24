@@ -1,0 +1,22 @@
+{
+  "name": "sean-wallace-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": ""
+  },
+  "scripts": {
+    "comment": "echo \"Error: no test specified\" && exit 1",
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Sean Wallace",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
